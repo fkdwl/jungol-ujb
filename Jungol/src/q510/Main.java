@@ -11,6 +11,7 @@ public class Main {
 		System.out.println(b);
 		
 		
+		//다른 풀이 1
 		//int num1, num2;
 		//num1 = -1;
 		//num2 = 100;
@@ -19,6 +20,7 @@ public class Main {
 		//System.out.println(num2);
 		
 
+		
 	}
 
 }
